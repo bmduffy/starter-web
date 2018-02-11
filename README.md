@@ -1,7 +1,8 @@
-# Starter Web Repo
+# Practice Your Git
 
-This repository is for showing how Git and GitHub work
+This repo is for practicing my `git`. It is important to practice your `git fu`
+everyday.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Practice, practice, practice.
