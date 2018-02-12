@@ -11,8 +11,3 @@ Practice, practice, practice.
 
 Here is some filler text
 
-lallalalalal
-
-## Even More Filler
-
-here's the filler
