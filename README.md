@@ -13,4 +13,5 @@ everyday.
 ## Don'ts
 
 - Push merge commits, for some reason we don't like them
-- 
+
+### Tux's Final Thoughts ...
