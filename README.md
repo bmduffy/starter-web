@@ -8,7 +8,9 @@ everyday.
 ## Do's
 
 - Prefer rebase to merge when submitting PRs to this repo
+- Use `.ignore` files 
 
 ## Don'ts
 
 - Push merge commits, for some reason we don't like them
+- 
