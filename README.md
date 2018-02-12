@@ -11,6 +11,11 @@ Practice, practice, practice.
 
 Here is some filler text
 
+## How to contribute 
+
+fork repo, push code, done
+
+
 ### Copyright
 
 2018, I claim this repo!
