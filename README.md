@@ -11,3 +11,6 @@ Practice, practice, practice.
 
 Here is some filler text
 
+### Copyright
+
+2018, I claim this repo!
