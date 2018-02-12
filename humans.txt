@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Brian Duffy   dev   bd@dev.com
 
 # THANKS
 
-    <name>
+    Brian
 
 # TECHNOLOGY COLOPHON
 
