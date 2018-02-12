@@ -10,3 +10,5 @@ everyday.
 - Prefer rebase to merge when submitting PRs to this repo
 
 ## Don'ts
+
+- Push merge commits, for some reason we don't like them
