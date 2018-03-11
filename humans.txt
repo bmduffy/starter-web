@@ -4,3 +4,7 @@
 There were no humans harmed in the making of this website..
 
 Allegedly
+
+# Technology:
+
+- HTML5, JQuery
